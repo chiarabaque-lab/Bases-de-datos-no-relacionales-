@@ -1,0 +1,97 @@
+ESTRUCTURA:
+{
+    id: 1,
+    nombre: "nombre producto (libro)",
+    productor: "nombre productor (autor)",
+    anio: 2025,
+    categorias: ["categoriaPrincipal", "categoriaSecundaria"],
+    disponible: true
+}
+
+cargar almenos 10 libros con sus respectivos autores
+[
+  {
+    "id": 1,
+    "nombre": "Cien años de soledad",
+    "productor": "Gabriel García Márquez",
+    "anio": 1967,
+    "categorias": ["Realismo mágico", "Novela"],
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "El amor en los tiempos del cólera",
+    "productor": "Gabriel García Márquez",
+    "anio": 1985,
+    "categorias": ["Novela", "Romántica"],
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Ficciones",
+    "productor": "Jorge Luis Borges",
+    "anio": 1944,
+    "categorias": ["Cuento", "Ficción"],
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "El Aleph",
+    "productor": "Jorge Luis Borges",
+    "anio": 1949,
+    "categorias": ["Cuento", "Fantástica"],
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "La casa de los espíritus",
+    "productor": "Isabel Allende",
+    "anio": 1982,
+    "categorias": ["Novela", "Realismo mágico"],
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Paula",
+    "productor": "Isabel Allende",
+    "anio": 1994,
+    "categorias": ["Autobiografía", "Memorias"],
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "nombre": "Rayuela",
+    "productor": "Julio Cortázar",
+    "anio": 1963,
+    "categorias": ["Novela", "Experimental"],
+    "disponible": true
+  },
+  {
+    "id": 8,
+    "nombre": "Bestiario",
+    "productor": "Julio Cortázar",
+    "anio": 1951,
+    "categorias": ["Cuento", "Surrealismo"],
+    "disponible": false
+  },
+  {
+    "id": 9,
+    "nombre": "Crónica de una muerte anunciada",
+    "productor": "Gabriel García Márquez",
+    "anio": 1981,
+    "categorias": ["Novela", "Drama"],
+    "disponible": true
+  },
+  {
+    "id": 10,
+    "nombre": "Cuentos de Eva Luna",
+    "productor": "Isabel Allende",
+    "anio": 1989,
+    "categorias": ["Cuento", "Realismo mágico"],
+    "disponible": true
+  }
+]
+
+
+
+
